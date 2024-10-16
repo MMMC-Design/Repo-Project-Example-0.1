@@ -241,8 +241,9 @@ ul {
   font-size: 64px;
   background-color: #d32b2b;
   text-align: center;
+
   margin-bottom: 10px;
-  letter-spacing: 68px;
+  letter-spacing: 18px;
 }
 
 .review-info {
