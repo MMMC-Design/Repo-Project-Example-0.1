@@ -6,6 +6,9 @@
 body {
   font-family: Arial, Helvetica, sans-serif;
   background-image: url(img/1383807.jpg);
+  background-position: top;
+  background-size: cover;
+  background-repeat: no-repeat;
   background-attachment: fixed;
 }
 
@@ -24,6 +27,8 @@ ul {
   text-shadow: #202020 5px 5px;
   color: #fff;
   background-image: url(img/wp2669018.jpg);
+  background-size: cover;
+  background-position: top;
   /*background-color: rgb(255, 0, 0, 0.9);*/
   padding: 24px;
   letter-spacing: 8px;
@@ -42,7 +47,7 @@ ul {
 
 .navbar .nav-top {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   font-size: 22px;
   text-transform: uppercase;
   font-weight: bold;
